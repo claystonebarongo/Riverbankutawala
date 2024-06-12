@@ -113,11 +113,11 @@ text-align: left;
  .service-grid{
   
   justify-content: space-between;
-  gap: 10px;
+
   background: rgba(0,0,0,0.5);
  }
  .service-grid p{
-  width: 435px;
+
   color: goldenrod;
  }
  .service-grid h3{
@@ -129,11 +129,7 @@ text-align: left;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color:goldenrod;
  }
- .service-grid img:hover{
-  
-  transform:scale(1.1)
-  
- }
+ 
  #contact{
   text-align: center;
   align-items: center;
