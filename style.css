@@ -128,6 +128,7 @@ text-align: left;
  .service-grid p{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color:goldenrod;
+     width:85%;
  }
  
  #contact{
