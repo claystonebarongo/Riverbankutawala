@@ -12,6 +12,7 @@
  nav{
    background-color:black;
     height: 80px;
+     margin-bottom:0;
  }
  nav a{
    color: white;
@@ -91,6 +92,7 @@ text-align: left;
  width: 400px;
  margin-left: 37%;
  color:white;
+ font-size:15px;   
 }
 .clay h3{
   font-size:35px;
