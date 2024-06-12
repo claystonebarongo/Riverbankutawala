@@ -156,7 +156,7 @@ color:goldenrod;
  form {
   display: flex;
   flex-direction: column;
-  width: 85%vh;
+  width: 30%;
   padding-top: 5%;
   padding-bottom: 5%;
   margin-left: 35%;
