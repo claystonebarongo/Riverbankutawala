@@ -43,7 +43,7 @@
 
  
  .home-content h1{
-  font-size: 75px;
+  font-size: 75%;
   
  }
  .home-content p{
@@ -51,7 +51,7 @@
   margin :10px 0;
  }
  .home-content h2{
-  font-size: 75px;
+  font-size: 75%;
   margin-top: 0;
  }
 
