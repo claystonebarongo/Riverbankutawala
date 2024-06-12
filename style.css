@@ -5,20 +5,19 @@
 
  ul{
     display: flex;
-    float: right;
+     justify-content:space-between;
     list-style: none;
-    margin-top: 61px;
+    
  }
  nav{
    
     height: 80px;
-    position: fixed;
  }
  nav a{
    color: white;
    background-color: rgba(0,0,0,0.5);
    text-decoration: none;
-   margin-left: 40px;
+   
  }
  nav a:hover{
   color: gold;
@@ -27,7 +26,7 @@
  #home{
    background-image: url("IMG-20240607-WA0023.jpg");
    
-   height: 100vh;
+   height: 100%vh;
    background-repeat: no-repeat;
    background-size: cover;
    text-align: center;
